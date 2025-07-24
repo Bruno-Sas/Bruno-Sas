@@ -2,7 +2,7 @@
 
 **`DBA | SSMS | Administrador de Banco de Dados `**
 
-Meu chamo Bruno Sas, tenho 24 anos e sou natural de São Paulo, SP. Sou formado em Análise e Desenvolvimento de Sistemas pela UMESP e atualmente estou concluindo minha pós-graduação em Análise de Dados e Big Data pela Faculdade Líbano.
+Meu nome é Bruno Sas, tenho 24 anos e sou natural de São Paulo, SP. Sou formado em Análise e Desenvolvimento de Sistemas pela UMESP e atualmente estou concluindo minha pós-graduação em Análise de Dados e Big Data pela Faculdade Líbano.
 
 Sou movido pela curiosidade e pela vontade de crescer no mundo da tecnologia. Estou construindo minha trajetória com foco em Engenharia de Dados, sempre buscando novos aprendizados, desafios e oportunidades para transformar dados em soluções que fazem a diferença.
 
