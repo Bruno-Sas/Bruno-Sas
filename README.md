@@ -112,5 +112,11 @@ Sou movido pela curiosidade e pela vontade de crescer no mundo da tecnologia. Es
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Bruno-Sas&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Sas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
